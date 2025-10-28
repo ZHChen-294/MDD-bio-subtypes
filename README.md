@@ -1,5 +1,5 @@
 # MDD Biotypes and Multilevel Molecular Signatures
-Paper: Neurobiological biotypes of major depressive disorder characterized by heterogeneous structural progression and multilevel molecular signatures
+**Paper**: _Neurobiological biotypes of major depressive disorder characterized by heterogeneous structural progression and multilevel molecular signatures_
 
 <p align="center">
 Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Jiayi Peng, Xiaorui Han, Mengfan Wang, Zhengze Gong, Yunlin Zheng,
