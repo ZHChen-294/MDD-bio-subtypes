@@ -1,4 +1,4 @@
-# MDD Biotypes and Multilevel Molecular Signatures
+# MDD Bio-subtypes and Multilevel Molecular Signatures
 **Paper**: _Neurobiological biotypes of major depressive disorder characterized by heterogeneous structural progression and multilevel molecular signatures_
 
 <p align="center">
